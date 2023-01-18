@@ -5,7 +5,7 @@
 <img align="center" alt="coding" width="480" hight="360" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 # 💫 About Me:
-<br>🔭 I’m currently working on Web development<br><br>🌱 I’m currently completing my undergraduate in Computer Science Engineering bachelers<br><br>👯 I’m looking to collaborate on different projects<br><br>📫 How to reach me sanjana.ayshi92@gmail.com<br><br>⚡ About me in 3 sentence I am a hard-working and driven individual who isn’t afraid to face a challenge. I’m passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn’t believe in misleading other people and tries to be fair in everything I do.<br>
+<br>🔭 I’m currently working on Web development<br><br>🌱 I’m currently completing my undergraduate in Computer Science Engineering<br><br>👯 I’m looking to collaborate on different projects<br><br>📫 How to reach me sanjana.ayshi92@gmail.com<br><br>⚡ About me in 3 sentence I am a hard-working and driven individual who isn’t afraid to face a challenge. I’m passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn’t believe in misleading other people and tries to be fair in everything I do.<br>
 
 
 ## 🌐 Socials:
